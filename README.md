@@ -1,6 +1,6 @@
 # Affinity Brake Spatial Analysis
 
-This repository contains the scripts used to analyze and generate spatial transcriptomics figures from *"Antibody feedback establishes affinity brake in the germinal center"* by Yan, Wang, Xie et al.
+This repository contains the scripts used to analyze and generate spatial transcriptomics figures from *"Antibody feedback establishes an affinity brake in the germinal center"* by Yan, Wang, Xie et al.
 
 ## Quickstart
 Download all of the Slide-seq data [here](https://singlecell.broadinstitute.org/single_cell/study/SCP3331).
